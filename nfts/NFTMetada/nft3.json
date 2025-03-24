@@ -1,0 +1,19 @@
+{
+  "name": "Lootbox NFT - Golden Sword",
+  "description": "This NFT represents a reward from the Lootbox NFT collection. It is a 'Golden Sword' obtained from a Gold lootbox.",
+  "image": "ipfs://QmXCCzJWyiRYRsFjoNqb62mrBVNCfjGSBkXDmvyKFbEf4x",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Weapon"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lootbox Pack",
+      "value": "Gold"
+    }
+  ]
+}

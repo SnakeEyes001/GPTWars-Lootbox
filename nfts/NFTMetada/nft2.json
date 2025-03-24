@@ -1,0 +1,19 @@
+{
+  "name": "Lootbox NFT - Silver Sword",
+  "description": "This NFT represents a reward from the Lootbox NFT collection. It is a 'Silver Sword' obtained from a Silver lootbox.",
+  "image": "ipfs://QmTJUQPzkWbegY3b8MRGJ5idWQkmi4kastKagPfiAoPUXi",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Weapon"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Lootbox Pack",
+      "value": "Silver"
+    }
+  ]
+}
